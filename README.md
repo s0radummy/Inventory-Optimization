@@ -1,6 +1,7 @@
 # Inventory KPI Dashboard
 ## Project Overview
-This project analyzes inventory performance for a retail dataset with **109,500 daily records** covering 5 stores, 30 products, 5 categories, and 4 regions (Jan 2022 to Dec 2023). It tracks inventory efficiency, flags stockout risk, estimates reorder points, and forecasts demand, using SQL analytics, a trained forecasting model, and an interactive dashboard.
+---
+- This project analyzes inventory performance for a retail dataset with **109,500 daily records** covering 5 stores, 30 products, 5 categories, and 4 regions (Jan 2022 to Dec 2023). It tracks inventory efficiency, flags stockout risk, estimates reorder points, and forecasts demand, using SQL analytics, a trained forecasting model, and an interactive dashboard.
 ---
 ## Key Features
 - **SQL-driven KPI Calculation**
